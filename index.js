@@ -6,7 +6,7 @@ const SimulatedAnnealing = (options, generateNewSolution, generateNeighbor, acce
     let coolingFactor            = options.coolingFactor || 0.05;
     let stabilizingFactor        = options.stabilizingFactor || 1.005;
     let freezingTemperature      = options.freezingTemperature || 0;
-	let currentSystemTemperature = options.initialTemperature || 20;
+    let currentSystemTemperature = options.initialTemperature || 20;
     let curStabilizor            = options.initialStabilizer || 35;    
 
     // Init solution
