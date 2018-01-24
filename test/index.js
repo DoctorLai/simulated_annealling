@@ -46,7 +46,7 @@ describe('x^2 = 16', function() {
       // console.log("Temperature: " + SA.GetCurrentTemperature());
       // console.log("GetCurrentEnergy: " + SA.GetCurrentEnergy());
     }    
-    x*x.should.be.closeTo(16);
+    (x*x).should.be.closeTo(16, 0.1);
   });
 });
 
