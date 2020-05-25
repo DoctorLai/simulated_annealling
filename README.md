@@ -77,11 +77,3 @@ npm test
 3. Commit your changes: git commit -am 'Add some feature'
 4. Push to the branch: git push origin my-new-feature
 5. Submit a pull request :D
-
-## Author
-* © justyy, Released under the [MIT License](http://spdx.org/licenses/MIT.html).
-* Authored and maintained by [@justyy](https://steemit.com/@justyy) with help from contributors ([list](https://www.npmjs.com/package/simulated_annealling/access)).
-    * Email: dr.zhihua.lai@gmail.com
-    * Github: [github.com/doctorlai](https://github.com/doctorlai)
-    * Twitter: [doctorzlai](https://twitter.com/doctorzlai)
-    * Blog: [helloacm](https://helloacm.com)
